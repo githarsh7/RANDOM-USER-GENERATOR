@@ -85,7 +85,3 @@ This project is licensed under the MIT License.
 ## Connect with Me 🤝 :
 - LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
 - Gmail : harshaavardhan8@gmail.com
-
-## Author
-
-Made by Your Name
